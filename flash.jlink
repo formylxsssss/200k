@@ -1,0 +1,7 @@
+speed 2400
+si swd
+connect
+loadfile build/single_channel_device.hex
+r
+g
+qc
